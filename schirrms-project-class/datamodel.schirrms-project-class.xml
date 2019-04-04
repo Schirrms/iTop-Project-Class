@@ -262,6 +262,25 @@
 				</details>
 			</presentation>
 		</class>
+		<class id="StorageSystem" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="col:col2">
+							<items>
+								<item id="fieldset:Server:otherinfo">
+									<items>
+										<item id="project_id" _delta="define">
+											<rank>6</rank>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
 	</classes>
 	<menus>
 	</menus>
