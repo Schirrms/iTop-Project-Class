@@ -13,7 +13,7 @@ Of course, you can see all CIs involved in that project :
 ![Project CIs](images/Project-CIs.png)
 
 # Warning
-To be of real use, I think that this project should be added to much more king of CIs. It's very easy, but not done yet.
+To be of real use, I think that this project should be added to much more (if not all) kind of CIs. It's very easy, but not done yet.
 
 # Installation
 As for all my extensions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
