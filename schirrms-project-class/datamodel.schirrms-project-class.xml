@@ -281,8 +281,71 @@
 				</details>
 			</presentation>
 		</class>
+		<class id="Middleware" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>42</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="WebServer" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>42</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="WebApplication" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>22</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="MiddlewareInstance" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>22</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
 	</classes>
 	<menus>
+		<menu id="ConfigManagementOverview" xsi:type="DashboardMenuNode" _delta="must_exist">
+			<rank>1</rank>
+			<parent>ConfigManagement</parent>
+			<definition>
+				<layout>DashboardLayoutOneCol</layout>
+				<title/>
+				<cells>
+					<cell id="4" _delta="must_exist"> <!-- Dashboard -> Miscellaneous -->
+						<rank>0</rank>
+						<dashlets>
+							<dashlet id="88" xsi:type="DashletBadge" _delta="define">
+								<rank>1</rank>
+								<class>Project</class>
+							</dashlet>
+						</dashlets>
+					</cell>
+				</cells>
+			</definition>
+		</menu>
 	</menus>
 	<user_rights>
 		<groups>

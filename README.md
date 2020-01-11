@@ -18,5 +18,7 @@ To be of real use, I think that this project should be added to much more (if no
 # Installation
 As for all my extensions, just download the zip file, and copy the 'schirrms-...' directory in your extensions directory, then rerun the setup as usual.
 
+# History
 
+0.1.3	2020-01-11	Add the project field in Middleware and Web server/instances and Project to the menu
 
