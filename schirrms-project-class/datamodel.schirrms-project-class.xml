@@ -281,7 +281,40 @@
 				</details>
 			</presentation>
 		</class>
+		<class id="DBServer" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>42</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="DatabaseSchema" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>42</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
 		<class id="Middleware" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>42</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="MiddlewareInstance" _delta="must_exist">
 			<presentation>
 				<details>
 					<items>
@@ -308,18 +341,7 @@
 				<details>
 					<items>
 						<item id="project_id" _delta="define">
-							<rank>22</rank>
-						</item>
-					</items>
-				</details>
-			</presentation>
-		</class>
-		<class id="MiddlewareInstance" _delta="must_exist">
-			<presentation>
-				<details>
-					<items>
-						<item id="project_id" _delta="define">
-							<rank>22</rank>
+							<rank>52</rank>
 						</item>
 					</items>
 				</details>
