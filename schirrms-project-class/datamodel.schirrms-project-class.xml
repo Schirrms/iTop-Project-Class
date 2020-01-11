@@ -337,7 +337,7 @@
 					<cell id="4" _delta="must_exist"> <!-- Dashboard -> Miscellaneous -->
 						<rank>0</rank>
 						<dashlets>
-							<dashlet id="88" xsi:type="DashletBadge" _delta="define">
+							<dashlet id="79" xsi:type="DashletBadge" _delta="define">
 								<rank>1</rank>
 								<class>Project</class>
 							</dashlet>
