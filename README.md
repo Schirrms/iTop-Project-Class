@@ -22,3 +22,4 @@ As for all my extensions, just download the zip file, and copy the 'schirrms-...
 
 0.1.3	2020-01-11	Add the project field in Middleware and Web server/instances and Project to the menu
 
+0.2.0	2020-11-03	Adds a 'Members' panel to link Contacts to the project
