@@ -32,6 +32,13 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:Project/Attribute:domain' => 'Domaine(s)',
 	'Class:Project/Attribute:tech' => 'Technologie(s)',
 	'Class:Project/Attribute:functional_cis_list' => 'CI membres du projet',
+	'Class:Project/Attribute:contacts_list' => 'Contacts du projet',
+	'Class:lnkProjectToContact' => 'Contacts du Projet',
+	'Class:lnkProjectToContact/Attribute:role' => 'Rôle',
+	'Class:lnkProjectToContact/Attribute:habilitation' => 'Niveau d\'habilitation',
+	'Class:lnkProjectToContact/Attribute:contact_id_finalclass_recall' => 'Type de contact',
+	'Class:lnkProjectToContact/Attribute:contact_id' => 'Contact',
+	'Class:lnkProjectToContact/Attribute:project_id' => 'Projet',
 	'Class:FunctionalCI/Attribute:project_id' => 'Code Projet',
 ));
 ?>

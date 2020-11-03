@@ -32,6 +32,13 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:Project/Attribute:domain' => 'Domain(s)',
 	'Class:Project/Attribute:tech' => 'Technology(ies)',
 	'Class:Project/Attribute:functional_cis_list' => 'CI part of the project',
+	'Class:Project/Attribute:contacts_list' => 'Project Members',
+	'Class:lnkProjectToContact' => 'Project Members',
+	'Class:lnkProjectToContact/Attribute:role' => 'Function',
+	'Class:lnkProjectToContact/Attribute:habilitation' => 'Habilitation level',
+	'Class:lnkProjectToContact/Attribute:contact_id_finalclass_recall' => 'Member type',
+	'Class:lnkProjectToContact/Attribute:contact_id' => 'Member',
+	'Class:lnkProjectToContact/Attribute:project_id' => 'Project',
 	'Class:FunctionalCI/Attribute:project_id' => 'Project Code',
 ));
 ?>
