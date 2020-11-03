@@ -303,6 +303,9 @@
 						<item id="role">
 							<rank>30</rank>
 						</item>
+						<item id="habilitation">
+							<rank>40</rank>
+						</item>
 					</items>
 				</list>
 				<search>
