@@ -40,5 +40,6 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:lnkProjectToContact/Attribute:contact_id' => 'Contact',
 	'Class:lnkProjectToContact/Attribute:project_id' => 'Projet',
 	'Class:FunctionalCI/Attribute:project_id' => 'Code Projet',
+	'Class:Contact/Attribute:projects_list' => 'Projet(s)',
 ));
 ?>
