@@ -1,6 +1,8 @@
 # iTop-Project-Class
 Most of our asset are linked to a project (wich is a very conceptual class :) This class is amed to store our project references, and to link them with our asset.
 
+*The screenshoot are from version 0.1, slightly outdated now.*
+
 # Goal
 This class will probably be 'my work centric' :) I'm not really sure that the terminology can be seen as generic. Anyway, if it can give ideas to others...
 
@@ -22,4 +24,4 @@ As for all my extensions, just download the zip file, and copy the 'schirrms-...
 
 0.1.3	2020-01-11	Add the project field in Middleware and Web server/instances and Project to the menu
 
-0.2.0	2020-11-03	Adds a 'Members' panel to link Contacts to the project
+0.2.1	2020-11-03	Adds a 'Members' panel to link Contacts to the project, also remove the unused now fields 'Coordinator, 'ProjectManager and 'ProjectOwner' (Now to set in the member tab)

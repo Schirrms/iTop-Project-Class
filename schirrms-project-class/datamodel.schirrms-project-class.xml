@@ -54,21 +54,6 @@
 					<default_value/>
 					<is_null_allowed>true</is_null_allowed>
 				</field>
-				<field id="coordinator" xsi:type="AttributeString">
-					<sql>coordinator</sql>
-					<default_value/>
-					<is_null_allowed>true</is_null_allowed>
-				</field>
-				<field id="owner" xsi:type="AttributeString">
-					<sql>owner</sql>
-					<default_value/>
-					<is_null_allowed>true</is_null_allowed>
-				</field>
-				<field id="projectManager" xsi:type="AttributeString">
-					<sql>project_manager</sql>
-					<default_value/>
-					<is_null_allowed>true</is_null_allowed>
-				</field>
 				<field id="type" xsi:type="AttributeString">
 					<sql>type</sql>
 					<default_value/>
@@ -157,15 +142,6 @@
 						</item>
 						<item id="defaultVersion">
 							<rank>35</rank>
-						</item>
-						<item id="coordinator">
-							<rank>40</rank>
-						</item>
-						<item id="owner">
-							<rank>45</rank>
-						</item>
-						<item id="projectManager">
-							<rank>50</rank>
 						</item>
 						<item id="type">
 							<rank>55</rank>
