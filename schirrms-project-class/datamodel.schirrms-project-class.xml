@@ -334,6 +334,17 @@
 				</details>
 			</presentation>
 		</class>
+		<class id="Hypervisor" _delta="must_exist">
+			<presentation>
+				<details>
+					<items>
+						<item id="project_id" _delta="define">
+							<rank>52</rank>
+						</item>
+					</items>
+				</details>
+			</presentation>
+		</class>
 		<class id="VirtualMachine" _delta="must_exist">
 			<presentation>
 				<details>
